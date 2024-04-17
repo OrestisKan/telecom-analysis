@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+plotly
+nbformat>=4.2.0
+kaleido
